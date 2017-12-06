@@ -1,4 +1,4 @@
-package com.gmail.islaianemaia.controller;
+package com.gmail.patrick.controller;
 
 import java.io.IOException;
 
@@ -9,8 +9,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.gmail.islaianemaia.entidades.Usuario;
-import com.gmail.islaianemaia.jdbc.UsuarioDao;
+import com.gmail.patrick.entidades.Usuario;
+import com.gmail.patrick.jdbc.UsuarioDao;
 
 /**
  * Servlet implementation class AutControler

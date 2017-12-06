@@ -1,4 +1,4 @@
-package com.gmail.islaianemaia.controller;
+package com.gmail.patrick.controller;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -11,8 +11,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.gmail.islaianemaia.entidades.Usuario;
-import com.gmail.islaianemaia.jdbc.UsuarioDao;
+import com.gmail.patrick.entidades.Usuario;
+import com.gmail.patrick.jdbc.UsuarioDao;
 
 @WebServlet("/usucontroler")
 public class UsuarioControle extends HttpServlet {

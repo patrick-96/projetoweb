@@ -1,4 +1,4 @@
-package com.gmail.islaianemaia.jdbc;
+package com.gmail.patrick.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,4 +1,4 @@
-package com.gmail.islaianemaia.entidades;
+package com.gmail.patrick.entidades;
 
 public class Usuario {
 	

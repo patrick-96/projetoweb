@@ -1,11 +1,11 @@
-package com.gmail.islaianemaia.teste;
+package com.gmail.patrick.teste;
 
 import java.util.List;
 
 import javax.swing.JOptionPane;
 
-import com.gmail.islaianemaia.entidades.Usuario;
-import com.gmail.islaianemaia.jdbc.UsuarioDao;
+import com.gmail.patrick.entidades.Usuario;
+import com.gmail.patrick.jdbc.UsuarioDao;
 
 public class Principal {
 

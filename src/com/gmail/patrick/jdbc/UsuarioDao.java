@@ -1,4 +1,4 @@
-package com.gmail.islaianemaia.jdbc;
+package com.gmail.patrick.jdbc;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -9,7 +9,7 @@ import java.util.List;
 
 import javax.swing.JOptionPane;
 
-import com.gmail.islaianemaia.entidades.Usuario;
+import com.gmail.patrick.entidades.Usuario;
 
 public class UsuarioDao {
 	
